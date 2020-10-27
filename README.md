@@ -1,5 +1,5 @@
 # PS Vita Coverflow
-A collection of covers for the ![HexFlow Launcher](https://gbatemp.net/threads/release-hex-flow-launcher-a-3d-coverflow-like-launcher-vitahex-games.576081/)] on the PS Vita
+A collection of covers for the ![HexFlow Launcher](https://gbatemp.net/threads/release-hex-flow-launcher-a-3d-coverflow-like-launcher-vitahex-games.576081/) on the PS Vita
 ![](https://raw.githubusercontent.com/piegit/psvita-coverflow/main/cover.png)
 You can request covers
 
